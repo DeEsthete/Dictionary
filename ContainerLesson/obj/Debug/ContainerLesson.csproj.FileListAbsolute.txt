@@ -1,0 +1,14 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\ContainerLesson.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\ContainerLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\ContainerLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.pdb
