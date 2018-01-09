@@ -24,5 +24,10 @@ namespace ContainerLesson
         {
             InitializeComponent();
         }
+
+        private void Card_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+
+        }
     }
 }

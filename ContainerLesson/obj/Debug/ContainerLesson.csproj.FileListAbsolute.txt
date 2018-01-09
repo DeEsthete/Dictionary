@@ -12,3 +12,8 @@ c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\
 c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.csproj.GenerateResource.Cache
 c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.exe
 c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\ContainerLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\MaterialDesignColors.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\ContainerLesson\ContainerLesson\obj\Debug\App.baml
